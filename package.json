@@ -1,0 +1,25 @@
+{
+  "name": "japan-post-code-custom",
+  "version": "1.0.1",
+  "description": "Japan postal code library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Okay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhnguyen-pnl/japan-post-code-custom.git"
+  },
+  "keywords": [
+    "japan-post-code-custom"
+  ],
+  "author": "Nguyen Xuan Linh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linhnguyen-pnl/japan-post-code-custom/issues"
+  },
+  "homepage": "https://github.com/linhnguyen-pnl/japan-post-code-custom#readme",
+  "dependencies": {
+    "jsonp": "^0.2.1"
+  }
+}
